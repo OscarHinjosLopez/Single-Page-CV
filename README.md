@@ -4,7 +4,7 @@ This project is a structured, single-page CV (Curriculum Vitae) created using on
 
 ## Project URL
 
-[https://github.com/your-username/your-repo-name](https://github.com/OscarHinjosLopez/Single-Page-CV)
+[https://github.com/OscarHinjosLopez/Single-Page-CV](Single-Page-CV-URL)
 
 Replace the above link with your actual public GitHub repository URL.
 
