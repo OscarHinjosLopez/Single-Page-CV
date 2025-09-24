@@ -2,11 +2,14 @@
 
 This project is a structured, single-page CV (Curriculum Vitae) created using only HTML. It demonstrates semantic HTML layout for education, skills, and career history, and is ready for future styling.
 
+
 ## Project URL
 
-[https://github.com/OscarHinjosLopez/Single-Page-CV]
+[https://github.com/OscarHinjosLopez/Single-Page-CV](https://github.com/OscarHinjosLopez/Single-Page-CV)
 
-Replace the above link with your actual public GitHub repository URL.
+## Roadmap.sh Project URL
+
+[https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
 
 ## Features
 
